@@ -1,0 +1,10 @@
+"/Users/amowhovos/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/183.5429.37/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/amowhovos/code/MPC/EMP/ot-client
+-- Build type: Debug
+[32m-- Source of Randomness: rdseed[m
+-- Boost version: 1.68.0
+-- Found the following Boost libraries:
+--   system
+-- GMP libs: /usr/local/lib/libgmp.dylib /usr/local/lib/libgmpxx.dylib
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/amowhovos/code/MPC/EMP/ot-client

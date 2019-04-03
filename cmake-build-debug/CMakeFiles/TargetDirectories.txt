@@ -1,0 +1,11 @@
+/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/CMakeFiles/list_install_components.dir
+/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/CMakeFiles/install/local.dir
+/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/CMakeFiles/shot.dir
+/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/CMakeFiles/ideal.dir
+/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/CMakeFiles/print_precomputation_table.dir
+/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/CMakeFiles/deltaot.dir
+/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/CMakeFiles/install/strip.dir
+/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/CMakeFiles/install.dir
+/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/CMakeFiles/mot.dir

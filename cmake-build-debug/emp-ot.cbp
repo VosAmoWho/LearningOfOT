@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="emp-ot"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\usr\local\cmake\;CMake Files\emp-ot\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shot">
+				<Option output="/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/bin/shot" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DEMP_CIRCUIT_PATH=/usr/local/include/emp-tool/circuits/files/"/>
+					<Add directory="/Users/amowhovos/code/MPC/EMP/ot-client"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/Cellar/openssl/1.0.2r/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 shot"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shot/fast">
+				<Option output="/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/bin/shot" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DEMP_CIRCUIT_PATH=/usr/local/include/emp-tool/circuits/files/"/>
+					<Add directory="/Users/amowhovos/code/MPC/EMP/ot-client"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/Cellar/openssl/1.0.2r/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 shot/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ideal">
+				<Option output="/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/bin/ideal" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DEMP_CIRCUIT_PATH=/usr/local/include/emp-tool/circuits/files/"/>
+					<Add directory="/Users/amowhovos/code/MPC/EMP/ot-client"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/Cellar/openssl/1.0.2r/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 ideal"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ideal/fast">
+				<Option output="/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/bin/ideal" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DEMP_CIRCUIT_PATH=/usr/local/include/emp-tool/circuits/files/"/>
+					<Add directory="/Users/amowhovos/code/MPC/EMP/ot-client"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/Cellar/openssl/1.0.2r/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 ideal/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="print_precomputation_table">
+				<Option output="/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/bin/print_precomputation_table" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DEMP_CIRCUIT_PATH=/usr/local/include/emp-tool/circuits/files/"/>
+					<Add directory="/Users/amowhovos/code/MPC/EMP/ot-client"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/Cellar/openssl/1.0.2r/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 print_precomputation_table"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="print_precomputation_table/fast">
+				<Option output="/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/bin/print_precomputation_table" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DEMP_CIRCUIT_PATH=/usr/local/include/emp-tool/circuits/files/"/>
+					<Add directory="/Users/amowhovos/code/MPC/EMP/ot-client"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/Cellar/openssl/1.0.2r/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 print_precomputation_table/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="deltaot">
+				<Option output="/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/bin/deltaot" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DEMP_CIRCUIT_PATH=/usr/local/include/emp-tool/circuits/files/"/>
+					<Add directory="/Users/amowhovos/code/MPC/EMP/ot-client"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/Cellar/openssl/1.0.2r/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 deltaot"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="deltaot/fast">
+				<Option output="/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/bin/deltaot" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DEMP_CIRCUIT_PATH=/usr/local/include/emp-tool/circuits/files/"/>
+					<Add directory="/Users/amowhovos/code/MPC/EMP/ot-client"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/Cellar/openssl/1.0.2r/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 deltaot/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mot">
+				<Option output="/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/bin/mot" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DEMP_CIRCUIT_PATH=/usr/local/include/emp-tool/circuits/files/"/>
+					<Add directory="/Users/amowhovos/code/MPC/EMP/ot-client"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/Cellar/openssl/1.0.2r/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 mot"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mot/fast">
+				<Option output="/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/bin/mot" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DEMP_CIRCUIT_PATH=/usr/local/include/emp-tool/circuits/files/"/>
+					<Add directory="/Users/amowhovos/code/MPC/EMP/ot-client"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/Cellar/openssl/1.0.2r/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 mot/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/amowhovos/code/MPC/EMP/ot-client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/amowhovos/code/MPC/EMP/ot-client/test/deltaot.cpp">
+			<Option target="deltaot"/>
+		</Unit>
+		<Unit filename="/Users/amowhovos/code/MPC/EMP/ot-client/test/ideal.cpp">
+			<Option target="ideal"/>
+		</Unit>
+		<Unit filename="/Users/amowhovos/code/MPC/EMP/ot-client/test/mot.cpp">
+			<Option target="mot"/>
+		</Unit>
+		<Unit filename="/Users/amowhovos/code/MPC/EMP/ot-client/test/print_precomputation_table.cpp">
+			<Option target="print_precomputation_table"/>
+		</Unit>
+		<Unit filename="/Users/amowhovos/code/MPC/EMP/ot-client/test/shot.cpp">
+			<Option target="shot"/>
+		</Unit>
+		<Unit filename="/Users/amowhovos/code/MPC/EMP/ot-client/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/amowhovos/code/MPC/EMP/ot-client/../../../../../../usr/local/cmake/common.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\cmake\"/>
+		</Unit>
+		<Unit filename="/Users/amowhovos/code/MPC/EMP/ot-client/../../../../../../usr/local/cmake/emp-tool-config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\cmake\"/>
+		</Unit>
+		<Unit filename="/Users/amowhovos/code/MPC/EMP/ot-client/../../../../../../usr/local/cmake/relic-config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\cmake\"/>
+		</Unit>
+		<Unit filename="/Users/amowhovos/code/MPC/EMP/ot-client/../../../../../../usr/local/cmake/source_of_randomness.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\cmake\"/>
+		</Unit>
+		<Unit filename="/Users/amowhovos/code/MPC/EMP/ot-client/../../../../../../usr/local/cmake/threading.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\cmake\"/>
+		</Unit>
+		<Unit filename="/Users/amowhovos/code/MPC/EMP/ot-client/emp-ot/latticeInclude.h.in">
+			<Option virtualFolder="CMake Files\emp-ot\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
